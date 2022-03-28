@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: bd4c1f34a84019146b9130bd770ce96f
+  - enabled: 1
+    path: Assets/Scenes/Boss dancing.unity
+    guid: 9d84cddd6ad504425aad2cc57a4ca1fd
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 180450cd53df9b7448a31b61a6fb5340, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 58fb57f29849c4b4a94928ad3a2a13fc, type: 2}
